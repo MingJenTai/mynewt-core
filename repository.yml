@@ -79,7 +79,8 @@ repo.newt_compatibility:
 repo.deps:
     apache-mynewt-nimble:
         type: github
-        user: apache
+        user: MingJenTai
+        password: 400a8a7c3bf2beeb4cb1cd2daeb7c20a0dde8005
         repo: mynewt-nimble
         vers:
             master: 0-dev
